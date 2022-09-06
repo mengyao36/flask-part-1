@@ -4,7 +4,7 @@ HHA 504 Flask Application Assignment
 # Google Could Console Link
 
 # main page
-35.238.31.38/
+35.238.31.38
 
 # careers page
 35.238.31.38/careers
