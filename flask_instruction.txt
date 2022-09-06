@@ -16,3 +16,27 @@ python flask_app.py
 # to close the local server, press CTRL+C
 
 # to reopen, run command above again 
+
+# for google cloud console, after creating the VM sucessfully, click SSH in default browser, then update 
+sudo apt-get update
+
+# to check python3 (usually use pip3 instead of pip)
+python 3
+exist
+
+# install pip3
+pip3
+sudo apt install python3-pip
+
+# install flask
+pip3 install flask
+
+# go to github reop, copy the link of the repo (https), then go back to google cloud console terminal
+git clone https://github repo link
+ls
+cd folder name
+# run the two commands above until get into where the .py file is located 
+nano flask_vm.py
+sudo python3 flask_vm.py
+
+# then go back to google cloud console again, copy the external IP, delete "https://", then run the web, should see web created 
