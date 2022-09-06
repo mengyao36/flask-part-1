@@ -1,0 +1,18 @@
+# commands to use to get flask run
+
+# check python enviorment and have flask ready to be used
+pip install flask
+pip3 install flask
+
+# under powershell, type "cd relative path of the python file"
+cd flask
+
+# check .py file is under the relative path
+ls
+
+# run commands in .py file
+python flask_app.py
+
+# to close the local server, press CTRL+C
+
+# to reopen, run command above again 
