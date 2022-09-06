@@ -39,4 +39,7 @@ cd folder name
 nano flask_vm.py
 sudo python3 flask_vm.py
 
+# press ctrl + C to exit, then use the command to keep vm running in background
+sudo nohup python3 flask_vm.py > log.txt 2>&1 &
+
 # then go back to google cloud console again, copy the external IP, delete "https://", then run the web, should see web created 
