@@ -5,6 +5,7 @@ HHA 504 Flask Application Assignment
 1. main page - 35.238.31.38
 2. careers page - 35.238.31.38/careers
 3. dashboard page - 35.238.31.38/dashboard
+4. screenshoots are added to the "screenshoots for google cloud" folder
 
 # Azure
 1. Create VM called "flask-assignment" under Resource called "AHI_504"
